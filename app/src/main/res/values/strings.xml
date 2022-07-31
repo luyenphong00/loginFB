@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoLGFacebook</string>
+    <string name="facebook_app_id">560195152252259</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">EAAH9fpkODWMBACqwpsaafHweZB0B7CLffY67BBxZAZC4MtOgQzYyL5d7rlC4Dt9wjHOUeRaf92gIZAHTPIK4kJwZBZBPZAgmeJVgfw4UHE5aFjSjBZAbrkgSMjuPyWnwzOOL0ACNWyBSQsxUjKSeKollodcOMKMPbOSr0xmMsIB3MP34ADzZBrDqRmle8MceXIWLh2CnHDowBTkGnHIhNkniy6DgoGcaY6QyvvnA9GGLquZBJWniZCLeg2Y</string>
+</resources>
